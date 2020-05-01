@@ -1,4 +1,4 @@
-爬取文字：index.js文件
+爬取文字：getext.js文件
 
 爬取图片：getpicture.js文件
 
