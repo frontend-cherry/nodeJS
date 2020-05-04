@@ -1,6 +1,6 @@
-const express = require('express');
-const fs = require("fs");
-const colors = require('colors');
+const express = require('express'),
+				fs = require("fs"),
+				colors = require('colors');
 
 
 //-------------    写接口，暴露数据     --------------
