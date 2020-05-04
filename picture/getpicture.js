@@ -1,8 +1,8 @@
 const https = require("https"),
-    fs = require("fs"),
-    request = require('request'),
-    cheerio = require("cheerio"),
-    colors = require('colors');
+              fs = require("fs"),
+              request = require('request'),
+              cheerio = require("cheerio"),
+              colors = require('colors');
 
 
 https.get('https://www.ivsky.com/bizhi/chahua_t1725/', function (res) {
